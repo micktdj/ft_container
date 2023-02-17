@@ -26,7 +26,7 @@ namespace	ft
 		
 		~Vector(void)
 		{
-			delete[] _arr;
+			delete [] _arr;
 		}
 
 		//	Accessors
